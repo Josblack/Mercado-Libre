@@ -1,0 +1,9 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+    font-size: larger;
+}

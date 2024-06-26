@@ -1,0 +1,49 @@
+body{
+    background-color: aliceblue;
+    text-align: center;
+}
+h1{
+    background-color: yellow;
+    padding: 10px;
+
+}
+header nav a{
+    background-color: black;
+    text-decoration: none;
+    font-size: larger;
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+}
+main section aside a{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+
+.section1{
+   
+    margin-right: 320px;    
+}
+.section2{
+    margin-top: -194px;
+    margin-left: 320px;
+    margin-bottom: 30px;
+}
+.section3{
+
+    margin-right: 320px;  
+}
+.section4{
+    margin-top: -194px;
+    margin-left: 320px;  
+
+}
+footer{
+    background-color: black;
+    color: white;
+}
+footer img{
+    margin: 15px;
+}
